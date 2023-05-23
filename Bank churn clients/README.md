@@ -9,8 +9,6 @@
 - pandas
 - matplotlib
 - seaborn
-- plotly
-- datetime
 - scipy
 - statsmodels
 ## Общий вывод
